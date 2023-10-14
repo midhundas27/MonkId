@@ -1,0 +1,37 @@
+body {
+    margin: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.avatar {
+    width: 150px;
+    height: 180px;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 30px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #ffaffc;
+    color: #78290f;
+    position: relative;
+    animation-name: cardmove;
+    animation-duration: 8s;
+    border-radius: 25px;
+    box-shadow: 5px 5px 7px 2px  #aeb8fe;
+    
+}
+.card:hover{
+    opacity: .7;
+}
+
+@keyframes cardmove {
+  0%   {background-color:#ffaffc; box-shadow: 5px 5px 7px 2px  #aeb8fe; left:0px; top:0px;}
+  25%  {background-color:#57cc99; box-shadow: 5px 5px 7px 2px #5e503f; left:200px; top:0px;}
+  50%  {background-color:#fed9b7; box-shadow: 5px 5px 7px 2px #70d6ff; left:200px; top:200px;}
+  75%  {background-color:#a4ac86; box-shadow: 5px 5px 7px 2px #ede0d4; left:0px; top:200px;}
+  100% {background-color:#ffaffc; box-shadow: 5px 5px 7px 2px #aeb8fe; left:0px; top:0px;}
+}
