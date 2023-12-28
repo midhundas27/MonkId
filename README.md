@@ -14,7 +14,7 @@
 - [Installation](#installation)
 - [Contributing](#contributing)
 - [License](#license)
-
+- 
 ---
 
 ## Description
@@ -29,7 +29,7 @@ The Business Card Webpage is a creative and visually appealing online business c
 - **Responsive Design:** Ensure optimal viewing on various devices, from desktops to tablets and mobile phones.
 - **Personalized Information:** Showcase essential professional information, including name, title, contact details, and social media links.
 - **Modern and Minimalist Design:** Embrace a clean and minimalist design to leave a lasting impression on visitors.
-- 
+  
 ---
 
 ## Demo
