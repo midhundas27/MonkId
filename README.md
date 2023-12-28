@@ -1,17 +1,14 @@
-# Basketball Scorecard
+# Business Card
 
 ![Project Image](https://github.com/midhundas27/BUSINESS-CARD/assets/114917096/bdf22b51-a077-410b-82b7-d41e0154c2ec)
 
-> A web application for updating live basketball scores.
+> A Business Card Webpage.
 
 ---
 
 ## Table of Contents
 
-- [Description](#description)![business-card(img-2)]()
-![business-card(img-3)]()
-![business-card(img-1)](https://github.com/midhundas27/BUSINESS-CARD/assets/114917096/bdf22b51-a077-410b-82b7-d41e0154c2ec)
-
+- [Description](#description)
 - [Features](#features)
 - [Demo](#demo)
 - [Installation](#installation)
@@ -28,14 +25,11 @@ The Business Card Webpage is a creative and visually appealing online business c
 
 ## Features
 
-- **Live Score Updates:** Initiate and update scores for live basketball matches in real-time.
-- **Period Management:** Control each period's duration, including breaks, with an intuitive timer system.
-- **Team Performance:** Add points to both teams and keep track of the number of fouls committed by each team.
-- **Result and Margin Calculation:** Obtain the final result of the match and the margin of victory based on the scores.
-- **Complete Game Analysis:** Gain insights into the game through comprehensive analysis tools.
-- **Interactive Interface:** The user-friendly interface makes it easy to navigate and access the information you need, providing a seamless and enjoyable browsing experience.
-- **Responsive Design:** Whether you're on a desktop, tablet, or mobile device, the website adapts to different screen sizes, ensuring a consistent and visually appealing presentation.
-
+- **Smooth Animations:** Delight users with smooth and eye-catching animations for an engaging browsing experience.
+- **Responsive Design:** Ensure optimal viewing on various devices, from desktops to tablets and mobile phones.
+- **Personalized Information:** Showcase essential professional information, including name, title, contact details, and social media links.
+- **Modern and Minimalist Design:** Embrace a clean and minimalist design to leave a lasting impression on visitors.
+- 
 ---
 
 ## Demo
